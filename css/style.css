@@ -12,7 +12,7 @@ body {
     background-color: #C4B1ED;
 }
 
-.align-header{
+.align-header {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,7 +76,7 @@ main {
     padding-top: 10px;
 }
 
-.saudacoes img{
+.saudacoes img {
     width: 32px;
     height: 30px;
     padding-left: 13px;
@@ -97,7 +97,7 @@ main h2 {
     padding-top: 18px;
 }
 
-.circle-main img{
+.circle-main img {
     width: 400px;
     height: 400px;
     position: absolute;
@@ -105,7 +105,7 @@ main h2 {
     left: 420px;
 }
 
-.react-main img{
+.react-main img {
     width: 30px;
     height: 30px;
     position: absolute;
@@ -113,7 +113,7 @@ main h2 {
     left: 458px;
 }
 
-.ts-main img{
+.ts-main img {
     width: 25px;
     height: 25px;
     position: absolute;
@@ -121,7 +121,7 @@ main h2 {
     left: 756px;
 }
 
-.figma-main img{
+.figma-main img {
     width: 25px;
     height: 25px;
     position: absolute;
@@ -129,12 +129,12 @@ main h2 {
     left: 535px;
 }
 
-.baixar-cv{
+.baixar-cv {
     margin-top: -120px;
     padding-left: 790px;
 }
 
-.baixar-cv h1{
+.baixar-cv h1 {
     color: #8B60E4;
     font-size: 18px;
     font-weight: 600;
@@ -143,19 +143,19 @@ main h2 {
     left: 960px;
 }
 
-.whats-baixar-cv img{
+.whats-baixar-cv img {
     position: absolute;
     top: 240px;
     left: 930px;
 }
 
-.arow-baixar-cv img{
+.arow-baixar-cv img {
     position: absolute;
     top: 245px;
     left: 1046px;
 }
 
-.baixar-cv button{
+.baixar-cv button {
     width: 215px;
     height: 55px;
     background-color: transparent;
@@ -170,7 +170,7 @@ hr {
     background-color: #B9A2EC;
 }
 
-.purple-square{
+.purple-square {
     margin-top: 180px;
     margin-left: 80px;
     width: 900px;
@@ -179,23 +179,23 @@ hr {
     background-color: #B9A2EC;
 }
 
-.align-p p{
+.align-p p {
     padding-top: 20px;
     font-size: 16px;
     font-weight: 400;
     color: #7B4AE2;
 }
 
-.align-p{
+.align-p {
     display: flex;
     justify-content: space-around;
 }
 
-.left-p{
+.left-p {
     padding-left: 40px;
 }
 
-.align-h1 h1{
+.align-h1 h1 {
     color: #7B4AE2;
     font-weight: 700;
     font-size: 32px;
@@ -203,12 +203,12 @@ hr {
     padding-right: 45px;
 }
 
-.align-h1{
+.align-h1 {
     display: flex;
     justify-content: space-around;
 }
 
-.trabalhos{
+.trabalhos {
     width: 100%;
     height: 500px;
 }
@@ -231,14 +231,14 @@ hr {
     padding-top: 10px;
 }
 
-.portifolio img{
+.portifolio img {
     width: 32px;
     height: 30px;
     padding-left: 13px;
     padding-top: 10px;
 }
 
-.align-projects{
+.align-projects {
     width: 1200px;
     height: 90px;
     display: flex;
@@ -246,7 +246,7 @@ hr {
     align-items: center;
 }
 
-h1{
+h1 {
     padding-top: 20px;
     font-size: 36px;
     font-weight: 800;
@@ -269,7 +269,7 @@ h1{
     transition: 0.5s all;
 }
 
-.design p { 
+.design p {
     color: #875CE4;
     font-weight: 600;
     font-size: 16px;
@@ -277,7 +277,7 @@ h1{
     padding-top: 16px;
 }
 
-.design img{
+.design img {
     width: 55px;
     height: 50px;
     padding-left: 23px;
@@ -299,7 +299,7 @@ h1{
     transition: 0.5s all;
 }
 
-.ui-design p { 
+.ui-design p {
     color: #875CE4;
     font-weight: 600;
     font-size: 16px;
@@ -307,20 +307,20 @@ h1{
     padding-top: 14px;
 }
 
-.ui-design img{
+.ui-design img {
     width: 42px;
     height: 45px;
     padding-left: 8px;
 }
 
-.align-move-it{
+.align-move-it {
     margin-top: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.move-it{
+.move-it {
     width: 250px;
     height: 350px;
     border: 1px solid #A180E7;
@@ -334,7 +334,7 @@ h1{
     transition: 0.5s all;
 }
 
-.move-it h1{
+.move-it h1 {
     color: white;
     font-weight: 700;
     font-size: 20px;
@@ -342,7 +342,7 @@ h1{
     padding-left: 20px;
 }
 
-.move-it p{
+.move-it p {
     color: #E3DBF6;
     font-weight: 400;
     font-size: 14px;
@@ -350,7 +350,7 @@ h1{
     padding-left: 20px;
 }
 
-.align-online{
+.align-online {
     display: flex;
 }
 
@@ -364,8 +364,8 @@ h1{
     height: 30px;
 }
 
-.online p { 
-    color:#7B4AE2;
+.online p {
+    color: #7B4AE2;
     font-weight: 700;
     font-size: 15px;
     padding-left: 15px;
@@ -382,8 +382,8 @@ h1{
     height: 30px;
 }
 
-.react-js p { 
-    color:#7B4AE2;
+.react-js p {
+    color: #7B4AE2;
     font-weight: 700;
     font-size: 15px;
     padding-left: 8px;
@@ -399,7 +399,7 @@ h1{
     height: 30px;
 }
 
-.typescript p { 
+.typescript p {
     color: #7B4AE2;
     font-weight: 700;
     font-size: 15px;
@@ -407,9 +407,59 @@ h1{
     padding-top: 6px;
 }
 
-.move-it img{
+.move-it img {
     width: 230px;
     height: 280px;
     padding-left: 20px;
     margin-top: -60px;
+}
+
+.section-skills {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills {
+    margin-top: 50px;
+    display: flex;
+    background-color: #bca7e6;
+    border-radius: 15px;
+    width: 255px;
+}
+
+.skills h2 {
+    height: 50px;
+    color: #7B4AE2;
+    font-weight: 700;
+    font-size: 20px;
+    padding-left: 6px;
+    padding-top: 15px;
+}
+
+.skills img {
+    width: 40px;
+    height: 36px;
+    padding-left: 15px;
+    padding-top: 12px;
+}
+
+.section-skills p {
+    padding-top: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.icons-tecs{
+    display: flex;
+}
+
+.icons-tecs img{
+    padding-top: 40px;
+    width: 75px;
+    height: 95px;
 }
