@@ -639,3 +639,25 @@ h1 {
     font-weight: 600;
     font-size: 20px;
 }
+
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: #9A76E7;
+    display: flex;
+    padding-top: 16px;
+}
+
+footer h1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 240px;
+    color: #CCBAF3;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.footer-imgs img{
+    width: 40px;
+    height: 60px;
+}
