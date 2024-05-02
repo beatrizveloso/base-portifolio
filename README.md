@@ -1,2 +1,6 @@
 ![image](https://github.com/beatrizveloso/portifolio/assets/156534028/359af314-2e10-47b8-9179-8b69a923f88f)
 ![image](https://github.com/beatrizveloso/portifolio/assets/156534028/409fbcba-af61-48f5-989d-d7fa2c7c7127)
+![image](https://github.com/beatrizveloso/portifolio/assets/156534028/487c6c2f-cce4-4825-ab3b-c029e90b22c0)
+![image](https://github.com/beatrizveloso/portifolio/assets/156534028/6f176eaa-5711-4f8a-a552-9994c7291639)
+![image](https://github.com/beatrizveloso/portifolio/assets/156534028/47928699-fda2-4373-abba-4857b4c8bda0)
+![image](https://github.com/beatrizveloso/portifolio/assets/156534028/c0c891b7-d036-4578-856d-c02cda69b3ba)
