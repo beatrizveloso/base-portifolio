@@ -137,19 +137,19 @@ h2 {
     font-size: 18px;
     font-weight: 600;
     position: absolute;
-    top: 230px;
+    top: 223px;
     left: 960px;
 }
 
 .whats-baixar-cv img{
     position: absolute;
-    top: 248px;
+    top: 240px;
     left: 930px;
 }
 
 .arow-baixar-cv img{
     position: absolute;
-    top: 252px;
+    top: 245px;
     left: 1046px;
 }
 
@@ -165,4 +165,42 @@ h2 {
 }
 hr {
     background-color: #B9A2EC;
+}
+
+.purple-square{
+    margin-top: 180px;
+    margin-left: 80px;
+    width: 900px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #B9A2EC;
+}
+
+.align-p p{
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #7B4AE2;
+}
+
+.align-p{
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-p{
+    padding-left: 40px;
+}
+
+.align-h1 h1{
+    color: #7B4AE2;
+    font-weight: 700;
+    font-size: 32px;
+    padding-top: 8px;
+    padding-right: 45px;
+}
+
+.align-h1{
+    display: flex;
+    justify-content: space-around;
 }
